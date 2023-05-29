@@ -12,7 +12,7 @@ src='https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb29914
 
 - 🌱 I’m currently learning **Redux**
 
-- 💬 Ask me about **React Native, Node js, Express Js, Mongodb, Django**
+- 💬 Ask me about **React Native, Node js, Express Js, Mongodb**
 
 - 📫 How to reach me **benzaminbikash@gmail.com**
 
