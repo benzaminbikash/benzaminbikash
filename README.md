@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bikash Nepali</h1>
-<h3 align="center">A passionate fullstack developer from Nepal</h3>
+<!-- <h3 align="center">A passionate fullstack developer from Nepal</h3>
 <img 
 align='right'
 alt='coding'
@@ -31,4 +31,4 @@ src='https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb29914
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benzmainbikash&show_icons=true&locale=en" alt="benzmainbikash" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benzmainbikash&" alt="benzmainbikash" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benzmainbikash&" alt="benzmainbikash" /></p> -->
