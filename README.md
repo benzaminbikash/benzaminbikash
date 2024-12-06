@@ -27,6 +27,3 @@ src='https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb29914
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benzmainbikash&show_icons=true&locale=en&layout=compact" alt="benzmainbikash" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benzmainbikash&show_icons=true&locale=en" alt="benzmainbikash" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benzmainbikash&" alt="benzmainbikash" /></p> 
