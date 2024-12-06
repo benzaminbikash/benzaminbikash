@@ -1,4 +1,6 @@
-![Snapinsta app_122435263_809531686544573_7353570394871535709_n_1080-modified](https://github.com/user-attachments/assets/517e2bbe-a762-4c4f-9ca3-ca5eea8d7da8)
+<h1 align="center">
+  <img src="https://github.com/user-attachments/assets/517e2bbe-a762-4c4f-9ca3-ca5eea8d7da8" width="500" height="500">
+</h1>
 <h1 align="center">Hi 👋, I'm Bikash Nepali</h1>
 <h3 align="center">"A passionate full-stack web and app developer from Nepal with expertise in designing user-friendly interfaces using Figma. I specialize in creating seamless and visually appealing digital experiences alongside robust back-end solutions."</h3>
 <!-- <img 
