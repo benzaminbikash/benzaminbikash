@@ -15,6 +15,8 @@ src='https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb29914
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bikashnepali" height="30" width="40" /></a>
+
 <p align="left">
 <a href="https://www.linkedin.com/in/bikash-nepali-4478b0310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
 <h3 align="left">Languages and Tools:</h3>
