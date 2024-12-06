@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bikash Nepali</h1>
-<h3 align="center">A passionate fullstack app developer from Nepal</h3>
+<h3 align="center">"A passionate full-stack web and app developer from Nepal with expertise in designing user-friendly interfaces using Figma. I specialize in creating seamless and visually appealing digital experiences alongside robust back-end solutions."</h3>
 <img 
 align='right'
 alt='coding'
@@ -10,7 +10,7 @@ src='https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb29914
 
 - 🔭 I’m currently working on **Ecommerce App**
 
-- 💬 Ask me about **React Native, Node js, Express Js, Mongodb**
+- 💬 Ask me about **React, Node js, Express Js, Mongodb, React Native, Tailwind Css, Redux Toolkit, React Hook Form, Figma**
 
 - 📫 How to reach me **benzaminbikash@gmail.com**
 
