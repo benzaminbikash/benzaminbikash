@@ -41,7 +41,9 @@
 
 📧 **Email**
 
+**nepalibikash907@gmail.com**
 **benzaminbikash@gmail.com**
+
 
 ---
 
@@ -77,16 +79,6 @@
 
 # 📂 Featured Projects
 
-### 📱 Programming Interview App
-
-A React Native application for preparing coding interviews with categorized questions and answers.
-
-**Tech**
-
-React Native • Redux Toolkit • Node.js • MongoDB
-
----
-
 ### 🐾 Pet Sathi Nepal
 
 A modern marketplace for buying, selling, and adopting pets.
@@ -94,6 +86,16 @@ A modern marketplace for buying, selling, and adopting pets.
 **Tech**
 
 React • Firebase • Tailwind CSS
+
+---
+
+### 📱 Programming Interview App
+
+A React Native application for preparing coding interviews with categorized questions and answers.
+
+**Tech**
+
+React Native • Redux Toolkit • Node.js • MongoDB
 
 ---
 
@@ -117,29 +119,6 @@ MongoDB • Express • React • Node
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
-
----
 
 # 🌍 Connect with Me
 
@@ -153,13 +132,3 @@ MongoDB • Express • React • Node
 </a>
 
 </p>
-
----
-
-<div align="center">
-
-### 💡 "Great software is built by solving real problems."
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
-
-</div>
